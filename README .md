@@ -287,14 +287,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**Manuel Armah
 
 **Kweku**
 
 - 📖 Read the full story: [Medium Article](https://medium.com/@kweku008/a56aaf672732)
-- 💼 Connect: [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Email: kweku008@example.com
-- 🐙 GitHub: [@kweku008](https://github.com/kweku008)
+- 💼 Connect: [LinkedIn](www.linkedin.com/in/myarmah)  
 
 ---
 
